@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-sw-ke",
+    "full_code": "crm.language-pack-sw-ke",
+    "vendor": "crm",
+    "code": "sw-ke",
+    "title": "Swahili Language Pack (Kiswahili)",
+    "native_name": "Kiswahili",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "Kifurushi kamili cha ujanibishaji wa TropaTT CRM kwa Kiswahili.",
+    "signature": "ce6d999829101c5c097631d891a86cd3c4d430a9b9a5e7839ef09faab9d7cdc3"
+}

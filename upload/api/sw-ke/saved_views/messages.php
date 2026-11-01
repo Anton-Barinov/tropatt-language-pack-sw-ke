@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'Inapakia...',
+  'load_error' => 'inapakia hitilafu',
+  'empty' => 'hakuna imehifadhiwa views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'mfumo',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'nakala rudufu',
+  'edit' => 'Hariri',
+  'archive' => 'kumbukumbu',
+  'applied' => 'tazama applied:',
+  'apply_error' => 'hitilafu applying tazama',
+  'save_as' => 'hifadhi as mpya tazama',
+  'edit_title' => 'hariri tazama',
+  'title_required' => 'ingiza a tazama jina',
+  'update_error' => 'hitilafu updating tazama',
+  'create_error' => 'hitilafu creating tazama',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'Hitilafu',
+  'duplicated' => 'tazama duplicated',
+  'duplicate_error' => 'hitilafu duplicating',
+  'confirm_archive' => 'kumbukumbu hii tazama?',
+  'archived' => 'tazama imehifadhiwa',
+  'archive_error' => 'hitilafu archiving',
+);

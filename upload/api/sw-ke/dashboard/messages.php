@@ -1,0 +1,32 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'widgets' => 'dashibodi widgets',
+  'widgets_saved' => 'dashibodi widgets imesasishwa',
+  'widgets_required' => 'Widgets orodha ni inahitajika',
+  'summary' => 'dashibodi muhtasari',
+  'sticky_notes_title' => 'Sticky madokezo',
+  'sticky_notes_loading' => 'inapakia madokezo...',
+  'sticky_notes_error' => 'imeshindwa hadi load madokezo',
+  'sticky_notes_empty' => 'hakuna madokezo yet',
+  'sticky_notes_add' => '+ Add dokezo',
+  'sticky_notes_pin' => 'Pin',
+  'sticky_notes_unpin' => 'Unpin',
+  'sticky_notes_archive' => 'kumbukumbu',
+  'sticky_notes_archive_confirm' => 'kumbukumbu dokezo?',
+  'sticky_notes_content_required' => 'ingiza dokezo maandishi',
+  'sticky_notes_saved' => 'dokezo imesasishwa',
+  'sticky_notes_save_error' => 'hifadhi hitilafu',
+  'sticky_notes_update_error' => 's sasisha hitilafu',
+  'sticky_notes_archived' => 'dokezo imehifadhiwa',
+  'sticky_notes_archive_error' => 'kumbukumbu hitilafu',
+  'sticky_notes_create_title' => 'mpya dokezo',
+  'sticky_notes_content_label' => 'dokezo maandishi',
+  'sticky_notes_placeholder' => 'andika a dokezo...',
+  'sticky_notes_color_label' => 'Colour',
+  'sticky_notes_created' => 'dokezo imeundwa',
+  'sticky_notes_create_error' => 'Creation hitilafu',
+  'insights' => 'dashibodi widget metrics',
+  'insights_unknown_widget' => 'isiyojulikana dashibodi widget',
+);

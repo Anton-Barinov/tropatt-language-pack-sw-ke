@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'mtiririko wa kazi rules orodha',
+  'created' => 'mtiririko wa kazi kanuni imeundwa',
+  'detail' => 'mtiririko wa kazi kanuni maelezo',
+  'updated' => 'mtiririko wa kazi kanuni imesasishwa',
+  'deleted' => 'mtiririko wa kazi kanuni imefutwa',
+  'test_run' => 'Test endesha imekamilika',
+  'runs' => 'mtiririko wa kazi runs orodha',
+  'not_found' => 'mtiririko wa kazi kanuni si imepatikana',
+  'invalid_trigger_code' => 'batili trigger_code',
+  'invalid_action_code' => 'batili action_code',
+  'payload_object' => 'Payload lazima kuwa an object',
+  'max_255' => 'kiwango cha juu 255 herufi',
+  'action_no_task_or_assignee' => 'hakuna kazi au assignee iliyochaguliwa',
+  'action_no_task_or_status' => 'hakuna kazi au mpya hali iliyochaguliwa',
+  'default_notification_title' => 'Automation arifa',
+  'action_no_notification_recipient' => 'hakuna arifa recipient iliyochaguliwa',
+  'action_no_task_or_comment' => 'hakuna kazi au maoni maandishi iliyochaguliwa',
+  'action_no_user_for_reminder' => 'hakuna mtumiaji iliyochaguliwa kwa kikumbusho',
+  'action_no_follow_up_title' => 'Follow-up kazi kichwa si specified',
+  'action_invalid_webhook_url' => 'toa a halali http/https webhook URL',
+  'action_no_task_for_sla' => 'hakuna kazi iliyochaguliwa kwa SLA',
+  'action_no_manager' => 'hakuna msimamizi imepatikana kwa executor',
+  'manager_notification_title' => 'Long kazi bila a break',
+  'manager_notification_body' => '{user}: {total} dakika imeandikwa kwenye kazi «{task}» kwenye {day} (threshold {threshold} dakika).',
+  'test_task_title' => 'Test kazi',
+  'follow_up_description' => 'imeundwa kwa automation kanuni kutoka kazi',
+  'follow_up_prefix' => 'Follow-up:',
+  'unknown_action' => 'isiyojulikana kitendo:',
+);

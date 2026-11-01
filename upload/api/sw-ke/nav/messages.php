@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Dashibodi',
+  'ideas' => 'Mawazo',
+  'tasks' => 'Kazi',
+  'day' => 'My siku',
+  'week' => 'My wiki',
+  'kanban' => 'Kanban',
+  'gantt' => 'Gantt',
+  'projects' => 'Miradi',
+  'calendar' => 'Kalenda',
+  'counterparties' => 'Washirika',
+  'teams' => 'Timu',
+  'knowledge' => 'Msingi wa maarifa',
+  'analytics' => 'Uchambuzi',
+  'notifications' => 'Arifa',
+  'admin' => 'Usimamizi',
+  'intake' => 'Maombi yanayoingia',
+  'cycles' => 'Mizunguko (Sprinti)',
+  'project_modules' => 'Moduli za mradi',
+  'admin_estimates' => 'Makadirio ya kazi',
+  'admin_modules' => 'Moduli',
+  'chat' => 'Mazungumzo',
+  'docs' => 'Nyaraka',
+  'api' => 'Nyaraka',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'kiwango kadi',
+  'menu_loaded' => 'Menu imepakiwa',
+);

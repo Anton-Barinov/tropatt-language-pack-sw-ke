@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'utegemezi orodha',
+  'created' => 'utegemezi imeundwa',
+  'deleted' => 'utegemezi imefutwa',
+  'not_found' => 'utegemezi si imepatikana',
+  'task_not_found' => 'One ya kazi was si imepatikana',
+  'invalid_type' => 'batili utegemezi aina',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => 'kazi haiwezi depend kwenye itself',
+  'different_projects' => 'Dependencies can tu kuwa imeundwa between kazi katika same mradi',
+  'empty' => 'hakuna dependencies',
+  'th_type' => 'Aina',
+  'th_task' => 'kazi',
+  'btn_delete' => 'Futa',
+  'load_error' => 'imeshindwa hadi load dependencies',
+  'prompt_task_id' => 'kazi ID (public_id)',
+  'task_id_empty' => 'kazi ID haiwezi kuwa tupu',
+  'prompt_dep_type' => 'utegemezi aina (FS, SS, FF, SF)',
+  'created_notify' => 'utegemezi imeongezwa',
+  'confirm_delete' => 'futa utegemezi?',
+  'deleted_notify' => 'utegemezi imefutwa',
+  'type_fs' => 'Finish-anza',
+  'type_ss' => 'anza-anza',
+  'type_ff' => 'Finish-Finish',
+  'type_sf' => 'anza-Finish',
+  'type_blocks' => 'Blocks',
+  'cyclic_dependency' => 'utegemezi would unda a mzunguko between kazi',
+);

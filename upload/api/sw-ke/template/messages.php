@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'kazi kiolezo orodha',
+  'task_created' => 'kazi kiolezo imeundwa',
+  'task_detail' => 'kazi kiolezo',
+  'task_updated' => 'kazi kiolezo imesasishwa',
+  'task_deleted' => 'kazi kiolezo imefutwa',
+  'project_list' => 'mradi kiolezo orodha',
+  'project_created' => 'mradi kiolezo imeundwa',
+  'project_detail' => 'mradi kiolezo',
+  'project_updated' => 'mradi kiolezo imesasishwa',
+  'project_deleted' => 'mradi kiolezo imefutwa',
+  'max_255' => 'kiwango cha juu 255 herufi',
+  'payload_object' => 'payload sehemu lazima kuwa an object',
+  'not_found' => 'kiolezo si imepatikana',
+  'empty_tasks' => 'hakuna kazi templates',
+  'empty_projects' => 'hakuna mradi templates',
+  'load_error_tasks' => 'imeshindwa hadi load kazi templates',
+  'load_error_projects' => 'imeshindwa hadi load mradi templates',
+  'btn_delete' => 'Futa',
+  'created_task_notify' => 'kazi kiolezo imeundwa',
+  'created_project_notify' => 'mradi kiolezo imeundwa',
+  'error_create' => 'unda hitilafu',
+  'confirm_delete_task' => 'futa kazi kiolezo?',
+  'confirm_delete_project' => 'futa mradi kiolezo?',
+  'deleted_task_notify' => 'kazi kiolezo imefutwa',
+  'deleted_project_notify' => 'mradi kiolezo imefutwa',
+  'error_delete' => 'futa hitilafu',
+  'task_applied' => 'kazi imeundwa kutoka kiolezo',
+  'project_applied' => 'mradi imeundwa kutoka kiolezo',
+);
